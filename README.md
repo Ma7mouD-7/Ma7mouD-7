@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mohammed</h1>
 <h3 align="center">A passionate Mobile Application developer (Android Especially) from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma7moud-7&label=Profile%20views&color=0e75b6&style=flat" alt="ma7moud-7" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma7moud-7" alt="ma7moud-7" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin Coroutines**
@@ -26,5 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ma7moud-7&" alt="ma7moud-7" /></p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ma7moud-7&show_icons=true&locale=en&layout=compact" alt="ma7moud-7" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma7moud-7&label=Profile%20views&color=0e75b6&style=flat" alt="ma7moud-7" /> </p>
