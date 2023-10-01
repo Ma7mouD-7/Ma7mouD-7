@@ -11,7 +11,7 @@ This is Mahmoud Mohammed, A passionate Mobile Application developer
 
 
 ## 📫 How to reach me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmoudm.27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ma7moud7) [![Mail](https://img.shields.io/badge/Mail-%23EA4335?logo=gmail&logoColor=white)](mailto:mahmoud.mohammed27@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmoudm.27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ma7moud7) [![Mail](https://img.shields.io/badge/Mail-%23EA4335?logo=gmail&logoColor=white)](mailto:mahmoud.mohammed27@gmail.com)  
 
 
 # 💻 Tech Stack:
@@ -19,7 +19,8 @@ This is Mahmoud Mohammed, A passionate Mobile Application developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ma7mouD-7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&disable_animations=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ma7mouD-7&theme=tokyonight&hide_border=false&disable_animations=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7mouD-7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&disable_animations=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7mouD-7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&disable_animations=false)  
+[![](https://visitcount.itsvg.in/api?id=Ma7mouD-7&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ma7mouD-7&theme=discord&no-frame=false&no-bg=true&margin-w=4)
@@ -31,6 +32,5 @@ This is Mahmoud Mohammed, A passionate Mobile Application developer
 ![](https://github-contributor-stats.vercel.app/api?username=Ma7mouD-7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ma7mouD-7&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma7moud-7&label=Profile%20views&color=0e75b6&style=flat" alt="ma7moud-7" /> </p>
+
